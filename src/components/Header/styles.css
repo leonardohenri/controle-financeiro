@@ -1,0 +1,9 @@
+.containerheader{
+    height: 150px;
+    text-align: center;
+    background: teal;
+}
+.title{
+    padding-top: 30px;
+    color:#fff;
+}

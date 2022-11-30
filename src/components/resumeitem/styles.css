@@ -1,0 +1,15 @@
+.containeritem{
+    gap: 50px;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px 15px;
+    width: 33%;
+    margin: 10px;
+    border: 1px solid black;
+}
+.divtitle{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}

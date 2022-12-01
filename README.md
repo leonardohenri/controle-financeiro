@@ -1,5 +1,7 @@
 #projeto feito acompanhando o video Sistema de Controle de Finanças com React.JS! do canal Will Dev https://www.youtube.com/@will_dev
 
+#se caso o npm nao rodar digite "npm install react-scripts --save"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
